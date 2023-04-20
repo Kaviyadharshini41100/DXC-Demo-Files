@@ -29,19 +29,19 @@
                 }
                 else if (Per >= 80 && Per <= 89)
                 {
-                    Console.WriteLine("B Greade");
+                    Console.WriteLine("B Grade");
                 }
                 else if (Per >= 60 && Per <= 79)
                 {
-                    Console.WriteLine("C Greade");
+                    Console.WriteLine("C Grade");
                 }
                 else if (Per >= 50 && Per <= 59)
                 {
-                    Console.WriteLine("D Greade");
+                    Console.WriteLine("D Grade");
                 }
                 else
                 {
-                    Console.WriteLine("E Greade");
+                    Console.WriteLine("E Grade");
 
                 }
                 if(Per >= 50)
